@@ -29,6 +29,7 @@ Some of my current and completed projects include:
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/ayush-jain-53a082422/)
 * 🧩 [LeetCode](https://leetcode.com/u/AyushJain2007/)
+* 🏆 [HackerRank](https://www.hackerrank.com/profile/Ayushjain2209)
 
 ---
 
