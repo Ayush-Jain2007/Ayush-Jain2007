@@ -2,18 +2,18 @@
 
 I'm a student and aspiring software developer focused on building a strong foundation in programming and problem-solving.
 
-Currently, I'm learning **C programming** and **Data Structures & Algorithms**, while building practical projects to improve my understanding of software development.
+Currently, I'm learning **C programming**, **Python** and **Data Structures & Algorithms**, while building practical projects to improve my understanding of software development.
 
 ## 🚀 What I'm Working On
 
 * 🧠 Strengthening my understanding of **Data Structures & Algorithms**
-* 💻 Building practical projects in **C**
+* 💻 Building practical projects in **C** and **Python**
 * 🛠️ Learning software development through hands-on projects
 * 📚 Improving my problem-solving skills through **LeetCode**
 
 ## 🛠️ Technologies & Skills
 
-* **Language:** C
+* **Language:** C and Python
 * **Currently Learning:** Data Structures & Algorithms
 * **Tools:** Git, GitHub
 
@@ -23,7 +23,7 @@ Some of my current and completed projects include:
 
 * 📝 **To-Do List** — A task management application built in C
 * 💰 **Personal Expense Tracker** — A modular C application for managing personal expenses
-* ✍️ **Mini Text Editor** — A command-line text editor currently in development
+* 📁 **File Organizer** — A File Organizer made by using Python
 
 ## 🔗 Connect With Me
 
